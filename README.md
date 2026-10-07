@@ -10,7 +10,7 @@ The review focuses on two major parts of the autonomous driving stack:
 - **Perception** – understanding the surrounding environment
 - **Prediction** – forecasting the future motion of road users
 
-The work investigates how Transformer-based architectures improve global scene understanding and modeling of spatial and temporal relationships, while also examining their limitations regarding computational cost, latency and deployment on automotive hardware. :chatgpt-content-reference{index="3"}
+The work investigates how Transformer-based architectures improve global scene understanding and modeling of spatial and temporal relationships, while also examining their limitations regarding computational cost, latency and deployment on automotive hardware.
 
 ---
 
