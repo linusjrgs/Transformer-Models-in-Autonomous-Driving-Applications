@@ -28,8 +28,7 @@ The review covers the development of Transformer-based approaches for autonomous
 - StreamPETR
 - BEVFusion
 
-The analysis follows the architectural progression from 2D object detection towards camera-based 3D perception and BEV representations. :chatgpt-content-reference{index="4"} :chatgpt-content-reference{index="5"}
-
+The analysis follows the architectural progression from 2D object detection towards camera-based 3D perception and BEV representations.
 ### Motion Prediction
 
 - MultiPath
@@ -38,7 +37,7 @@ The analysis follows the architectural progression from 2D object detection towa
 - MTR / MTR++
 - MotionLM
 
-The review examines how Transformer-based architectures improve the modeling of temporal dependencies, multimodal trajectories and interactions between multiple road users. :chatgpt-content-reference{index="6"} :chatgpt-content-reference{index="7"}
+The review examines how Transformer-based architectures improve the modeling of temporal dependencies, multimodal trajectories and interactions between multiple road users.
 
 ---
 
@@ -55,9 +54,9 @@ Transformers provide strong capabilities for:
 
 However, these advantages come with significant computational costs.
 
-A central finding of the review is the **trade-off between model performance and computational efficiency**. Modern Transformer architectures can achieve strong benchmark results, but their computational requirements and inference latency remain major obstacles for real-time deployment in autonomous vehicles. :chatgpt-content-reference{index="8"}
+A central finding of the review is the **trade-off between model performance and computational efficiency**. Modern Transformer architectures can achieve strong benchmark results, but their computational requirements and inference latency remain major obstacles for real-time deployment in autonomous vehicles.
 
-For example, the reviewed perception models show that increasing spatial and temporal modeling capabilities can come at the cost of inference speed and memory requirements. :chatgpt-content-reference{index="9"}
+For example, the reviewed perception models show that increasing spatial and temporal modeling capabilities can come at the cost of inference speed and memory requirements. 
 
 ---
 
@@ -74,7 +73,7 @@ Key open challenges include:
 - limited and imbalanced training data
 - rare and safety-critical scenarios
 
-Further optimization of Transformer architectures and their underlying hardware is therefore essential for practical deployment. :chatgpt-content-reference{index="10"}
+Further optimization of Transformer architectures and their underlying hardware is therefore essential for practical deployment.
 
 ---
 
